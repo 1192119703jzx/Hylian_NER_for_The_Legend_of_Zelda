@@ -5,3 +5,5 @@ Yangyang Chen
 Zixin Jiang
 
 Spring 2025
+
+Raw in-game text dump available upon request due to the size and licence concerns.
